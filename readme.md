@@ -4,7 +4,7 @@
 
 You will find here my Exercism.io Ruby code solutions
 
-## Are you a code newbie?
+## About Excercism.io
 
 Learning to program is exhilarating and challenging... and also frustrating, exhausting, and overwhelming.
 
