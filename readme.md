@@ -1,6 +1,7 @@
 # Excercism.io
 
-##Description
+## Description
+
 You will find here my Exercism.io Ruby code solutions
 
 ## Are you a code newbie?
